@@ -1,11 +1,11 @@
 {
     "code": 0,
-    "data": [
+    "data": {[
         "https://photopiepro.github.io/photopiepro/photos/road.jpg",
         "https://photopiepro.github.io/photopiepro/photos/jiguang.jpg",
         "https://photopiepro.github.io/photopiepro/photos/smallhouse.jpg",
         "https://photopiepro.github.io/photopiepro/photos/sunset.jpg",
         "https://photopiepro.github.io/photopiepro/photos/tree.jpg",
         "https://photopiepro.github.io/photopiepro/photos/water.jpg"
-    ]
+    ]}
 }
